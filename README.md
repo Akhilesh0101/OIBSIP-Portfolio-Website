@@ -2,4 +2,4 @@
 # OIBSIP-Portfolio-Website
 
 
-live link- https://akhilesh0101.github.io/OIBSIP-Portfolio-Website/
+live link- https://akhilesh0101.github.io/OIBSIP-Portfolio-Website
